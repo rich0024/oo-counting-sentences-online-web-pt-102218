@@ -5,9 +5,9 @@ class String
   def sentence?
     binding.pry
     self.ends_with(".")
-    
+
   end
-  
+
 
   def question?
 
